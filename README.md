@@ -32,7 +32,7 @@ To set up this project locally, follow these steps:
 •	Install dependencies listed in requirements.txt
 ## Steps
 1.Clone the repository:
-git clone https://github.com/GANESH9124/multilingual-speech-summarization.git
+git clone https://github.com/SakshiHacks/multilingual-speech-summarization.git
 cd multilingual-speech-summarization-rag
 2.Create a virtual environment:
 python3 -m venv venv
