@@ -1,7 +1,7 @@
 # Multilingual Speech Recognition and Summarization Model
 
 This project focuses on building a multilingual speech recognition and summarization model by integrating OpenAI's Whisper Large V3 model with Retrieval-Augmented Generation (RAG). The system is designed to take audio or video inputs, transcribe and summarize the content, store the results in a vector database using FAISS, and respond to user queries based on the stored content.
-# Table of Contents
+## Table of Contents
 •	Overview
 •	Features
 •	Installation
